@@ -45,7 +45,7 @@ Simply open `index.html` in your browser.
 
 ---
 
-## 📸 Preview  
+## Preview  
 ---
 # Home Page
 ![alt text](/images/task_10.PNG)
@@ -57,7 +57,7 @@ Simply open `index.html` in your browser.
 
 ---
 
-## 📝 Author
+## Author
 This project was created by Syed Areeb Ashraf
 
 FAST-NUCES, Karachi.
