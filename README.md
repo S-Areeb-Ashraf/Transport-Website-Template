@@ -31,9 +31,7 @@ pak-transport-services/
 ## Getting Started  
 
 ### 1️⃣ Clone this repository  
-```bash
-git clone https://github.com/S-Areeb-Ashraf/Transport-Website-Template.git
-```
+
 
 ### 2️⃣ Open in Browser  
 Simply open `index.html` in your browser.  
