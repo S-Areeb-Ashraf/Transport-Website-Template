@@ -47,6 +47,7 @@ Simply open `index.html` in your browser.
 
 ## 📸 Preview  
 *(Will be doing)*  
+![alt text](/images/main_truck2.PNG)
 
 ---
 
