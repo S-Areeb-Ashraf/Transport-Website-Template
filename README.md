@@ -50,23 +50,6 @@ Simply open `index.html` in your browser.
 
 ---
 
-## 📡 Deployment  
-You can deploy this website for free using:  
-- **GitHub Pages**  
-- **Netlify**  
-- **Vercel**  
-
-For GitHub Pages:  
-1. Push this repo to GitHub.  
-2. Go to **Repo Settings → Pages**.  
-3. Select `main` branch → `/root`.  
-4. Your website will be live at:  
-   ```
-   https://your-username.github.io/pak-transport-services/
-   ```  
-
----
-
 ## 📝 Author
 This project was created by Syed Areeb Ashraf
 
