@@ -32,7 +32,7 @@ pak-transport-services/
 
 ### 1️⃣ Clone this repository  
 ```bash
-git clone https://github.com/your-username/pak-transport-services.git
+git clone https://github.com/S-Areeb-Ashraf/Transport-Website-Template.git
 ```
 
 ### 2️⃣ Open in Browser  
