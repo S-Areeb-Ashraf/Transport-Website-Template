@@ -46,8 +46,14 @@ Simply open `index.html` in your browser.
 ---
 
 ## 📸 Preview  
-*(Will be doing)*  
-![alt text](/images/main_truck2.PNG)
+---
+# Home Page
+![alt text](/images/task_10.PNG)
+
+![alt text](/images/task_11.PNG)
+
+# Services Page
+![alt text](/images/task_12.PNG)
 
 ---
 
