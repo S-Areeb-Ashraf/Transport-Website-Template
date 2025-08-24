@@ -46,7 +46,7 @@ Simply open `index.html` in your browser.
 ---
 
 ## 📸 Preview  
-*(Add a screenshot of your website here once you deploy it)*  
+*(Will be doing)*  
 
 ---
 
